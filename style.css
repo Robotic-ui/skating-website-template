@@ -8,7 +8,7 @@ body, html{
   color: #666; 
 } 
 
-.pimg1, .pimg2, .pimg3{
+.img1, .img2, .img3{
   position: relative;
   opacity: 0.70;
   background-position: center;
@@ -75,7 +75,7 @@ body, html{
 }
 
 @media(max-width:568px){
-  .pimg1, .pimg2, .pimg3{
+  .img1, .img2, .img3{
     background-attachment: scroll;
   }
 }
